@@ -1,0 +1,37 @@
+# Build artifacts (if you rebuild)
+build/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+CMakeCache.txt
+CMakeFiles/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Model files (large, don't commit)
+*.gguf
+*.bin
+*.safetensors
+models/
+
+# User data
+*.txt
+!README.md
