@@ -1,4 +1,4 @@
-```markdown
+
 # llama.cpp Windows Build — AVX512 Optimized
 
 > **Pre-built llama.cpp binaries for Windows x64 with AVX512 optimizations**
